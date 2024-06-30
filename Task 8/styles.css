@@ -1,0 +1,43 @@
+body {
+  font-family: "Arial", sans-serif;
+  background-color: #f4f4f4;
+  color: #333;
+  padding: 20px;
+}
+body h1 {
+  font-size: 24px;
+  color: #3498db;
+}
+body .container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+body .container .section {
+  background-color: #2ecc71;
+  padding: 20px;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+body .container .section p {
+  font-size: 18px;
+  color: #333;
+}
+body .container .section.special-section {
+  background-color: #e74c3c;
+}
+body .button {
+  display: inline-block;
+  padding: 20px;
+  font-size: 18px;
+  background-color: #3498db;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+body .button:hover {
+  background-color: #217dbb;
+}
+
+/*# sourceMappingURL=styles.css.map */
